@@ -1,0 +1,18 @@
+a {
+    color: #000000;
+}
+.row {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+@media screen and (max-width: 1024) {
+    body {
+        background: #f90;
+        font-size: 25px;
+        color: #ffffff;
+    }
+    h1 {
+        font-size: 45px;
+    }
+}
