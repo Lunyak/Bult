@@ -1,18 +1,2 @@
-a {
-    color: #000000;
-}
-.row {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-}
-@media screen and (max-width: 1024) {
-    body {
-        background: #f90;
-        font-size: 25px;
-        color: #ffffff;
-    }
-    h1 {
-        font-size: 45px;
-    }
-}
+body{background:#bbdefb}h1{color:#757575;cursor:pointer;border:1px solid #2196f3}a{color:#bdbdbd}
+/*# sourceMappingURL=style.css.map */
